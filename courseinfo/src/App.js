@@ -36,8 +36,6 @@ const Part = (props) => {
   )
 }
 
-
-
 function App() {
 
   const course = 'Half Stack application development'
